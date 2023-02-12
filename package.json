@@ -40,7 +40,7 @@
     "valid-url": "^1.0.9"
   },
   "devDependencies": {
-    "ava": "^3.6.0",
+    "ava": "^5.2.0",
     "babel-eslint": "^10.1.0",
     "del": "^5.1.0",
     "eslint": "^6.8.0",
